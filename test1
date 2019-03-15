@@ -8,7 +8,8 @@
             "AppConfig",
             "ShowWeb",
             "1",
-            "Url"
+            "Url",
+            "key_game_app"
         ]
     }
 }
