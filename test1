@@ -7,7 +7,7 @@
           	"http://1256app.com:8080/biz/getAppConfig?appid=test",
             "AppConfig",
             "ShowWeb",
-            "0",
+            "1",
             "Url"
         ]
     }
