@@ -1,0 +1,20 @@
+{
+    "code":"1",
+    "test":{
+        "key_game_app":"https://gitee.com/",
+        "open_channel":"1",
+        "channel_keys":[
+            "https://gitee.com/",
+            "AppConfig",
+            "ShowWeb",
+            "0",
+            "Url",
+            "4",
+            "5",
+            "1",
+            "open_channel",
+            "channel_url",
+            "key_game_app"
+        ]
+    }
+}
