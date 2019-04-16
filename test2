@@ -1,5 +1,6 @@
 {
     "data":{
+        "KEY_GAME_APP":"url",
         "KEY_ARRAY_KEYS":[
           	"http://www.jlckjz.com/back/get_init_data.php?type=ios&appid=lscs",
             "data",
