@@ -1,13 +1,13 @@
 {
     "data":{
-        "KEY_GAME_APP":"url",
+        "KEY_GAME_APP":"key_game_app",
         "KEY_ARRAY_KEYS":[
-          	"http://www.jlckjz.com/back/get_init_data.php?type=ios&appid=lscs",
-            "data",
+          	"https://raw.githubusercontent.com/uu6437/app_game/master/test1",
+            "test",
             "show_url",
             "1",
             "url",
-            "url"
+            "key_game_app"
         ]
     }
 }
